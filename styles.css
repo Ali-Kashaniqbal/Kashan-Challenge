@@ -1,0 +1,64 @@
+body{
+  background-color:hsl(225, 100%, 98%)
+}
+.img-container{
+background-color:hsl(225, 100%, 94%);
+text-align: center;
+
+}
+p{
+font-size: 16px;
+color: hsl(224, 23%, 55%);
+width: 60%;
+text-align: center;
+padding-bottom: 2%;
+margin-top: 0;
+margin: auto;
+}
+a{
+  color: hsl(245, 75%, 52%);
+  text-decoration: none;
+  margin-left: 7%;
+ size:5%;
+ text-align: center;
+ margin-top: 5%;
+
+}
+a:hover{
+  color:hsl(223, 47%, 23%);
+}
+.main-container{
+  border-radius:  20px;
+  position: relative;
+  left: 35%;
+  bottom: 300px;
+  border-width: medium;
+}
+.red-container{
+background-color:  hsl(225, 100%, 98%);
+
+  border-radius: 30px;
+  border-width: thin;
+height:3rem;
+  display: flex;
+}
+.kashan{
+    border-radius:  20px;
+}.card-container{
+width: 80%;
+
+}
+.kashan.ali{
+border-top-right-radius:   20px;
+border-top-left-radius: 20px;
+
+}
+.heading-ali{
+
+  padding-bottom: 5%;
+}
+.blue-image{
+  border-top-right-radius:   20px;
+  border-top-left-radius: 20px;
+
+}
